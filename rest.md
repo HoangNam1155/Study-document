@@ -18,5 +18,5 @@
 | **git pull** | pull files have been changed |
 | **git clone [ url ]** | clone all files |
 | **git log** | show log/history |
-
+| **git remote add origin [your github link]** | direct where to add |
 
