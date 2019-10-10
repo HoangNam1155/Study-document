@@ -9,11 +9,10 @@
 7. **git push origin [bracnch name]** : up file bạn đã add lên github với nhánh mà bạn muốn
 ---
 **Kéo file từ github xuống**
----
 1. **git clone [ url ]**: kéo tất cả các file trên lib github
 2. **git pull**: kéo các file đã thay đổi trong github
 ---
-**Một vài lệnh cơ bản khi sử dụng github**
+**Một vài lệnh cơ bản khi sử dụng github**  
 | Syntax | Description |
 | ----------- | ----------- |
 | **git status** | kiểm tra tình trạng của các file trên git |
