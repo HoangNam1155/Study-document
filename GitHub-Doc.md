@@ -1,5 +1,4 @@
-# Github document 
----
+# Github document
 **Up file lên github**
 1. **git init**: cài đặt git vào thư mục cần sử dụng
 1. **git add .** : thêm tất cả các file trong thư mục bạn đã cài git
@@ -12,7 +11,7 @@
 1. **git clone [ url ]**: kéo tất cả các file trên lib github
 2. **git pull**: kéo các file đã thay đổi trong github
 ---
-**Một vài lệnh cơ bản khi sử dụng github**  
+**Một vài lệnh cơ bản khi sử dụng github**
 | Syntax | Description |
 | ----------- | ----------- |
 | **git status** | kiểm tra tình trạng của các file trên git |
@@ -26,4 +25,3 @@
 | **git clone [ url ]** | kéo tất cả các file trong nhánh xuống (chỉ làm một lần) |
 | **git log** | hiện thị lịch sử trong github |
 | **git remote add origin [your github link]** | thêm đường dẫn để github biết bạn đang làm việc ở đâu |
-
