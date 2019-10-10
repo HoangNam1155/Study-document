@@ -13,15 +13,9 @@
 ---
 **Một vài lệnh cơ bản khi sử dụng github**
 | Syntax | Description |
-| ----------- | ----------- |
+| --- | ----------- |
 | **git status** | kiểm tra tình trạng của các file trên git |
 | **git fetch** | lấy thay đổi của các file trên github |
 | **git branch**| liệt kê tất cả các nhánh có trong github |
 | **git branch [branch name]**| tạo một nhánh mới trong github |
 | **git branch -d [branch name]**| xóa một nhánh trong github |
-| **git checkout [branch name]**| đổi sang một nhánh có trong github |
-| **git checkout -b [branch name]**| tạo một nhánh mới và chuyển vị trí của mình đến nhánh đó trong github |
-| **git pull** | kéo các file đã thay đổi trong nhánh github |
-| **git clone [ url ]** | kéo tất cả các file trong nhánh xuống (chỉ làm một lần) |
-| **git log** | hiện thị lịch sử trong github |
-| **git remote add origin [your github link]** | thêm đường dẫn để github biết bạn đang làm việc ở đâu |
